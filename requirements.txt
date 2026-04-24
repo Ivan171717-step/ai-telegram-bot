@@ -1,0 +1,7 @@
+python-telegram-bot==21.6
+openai==1.55.3
+python-dotenv
+httpx
+duckduckgo-search
+fastapi
+uvicorn
